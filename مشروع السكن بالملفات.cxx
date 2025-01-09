@@ -20,7 +20,7 @@ getline(cin,name);
 	cout << "المستوى:"; getline(cin,le);	
    	stu<< "المستوى:"<<le<<endl;
 	cout << "تاريخ التسجيل باليوم"; 
-              	getline(cin,da);	
+              	getline(cin,da);
    	stu<< "تاريخ التسجيل باليوم"<<da<<endl;
 	cout << "تاريخ التسجيل بالشهر:";
 		         getline(cin,moo);	
